@@ -1,6 +1,6 @@
-### Olá! Eu sou a Agatha Lindemberg 👋
+### Hi! I'm Agatha Lindemberg 👋
 
-Essas são as tecnologias que estou aprendendo:
+These are the technologies I'm learning:
 <br>
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -10,4 +10,4 @@ Essas são as tecnologias que estou aprendendo:
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-Estou em busca de empresas que possam me desafiar como profissional e me permitam aperfeiçoar minhas habilidades técnicas.
+I'm looking for companies that can challenge me as a professional and allow me to improve my technical skills.
